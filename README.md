@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Raghavarshini! 👋
 
-<!--
-**ssraghavarshini/ssraghavarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Artificial Intelligence and Data Science student at Chennai Institute of Technology.
 
-Here are some ideas to get you started:
+💡 Interested in Artificial Intelligence, Data Science, and Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning C++, Python, problem-solving, and AI fundamentals.
+
+🛠️ Skills & Technologies
+- Python
+- C++
+- SQL & MySQL
+- Data Structures — fundamentals
+- Artificial Intelligence — fundamentals
+
+🎯 My Interests
+- Exploring AI-powered solutions to real-world problems
+- Building creative and useful technology projects
+- Learning new programming concepts
+- Exploring entrepreneurship and innovation
+
+📌 My Goal
+
+To continuously learn, build meaningful projects, and use technology to solve real-world problems.
+
+✨ This is the beginning of my journey in technology. More projects coming soon!
